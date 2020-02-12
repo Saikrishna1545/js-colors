@@ -18,3 +18,8 @@ document.querySelector('#green').addEventListener('touchend', updateColor)
 
 // call the handler 
 updateColor() 
+function popup() {
+
+  alert("hello!")
+  
+}
